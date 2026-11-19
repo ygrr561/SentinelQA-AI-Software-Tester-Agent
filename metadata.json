@@ -1,0 +1,6 @@
+{
+  "name": "SentinelQA — AI Software Tester Agent",
+  "description": "Autonomous AI software testing platform that inspects live web interfaces with Playwright, generates structured test plans, executes deterministic browser validations, captures screenshots, analyzes failures, and exports detailed QA reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
